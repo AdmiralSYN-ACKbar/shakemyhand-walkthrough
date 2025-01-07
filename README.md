@@ -1,5 +1,9 @@
-# IrisCTF 2025 - "Shake My Hand" Walkthrough 
+# IrisCTF 2025 - "Shake My Hand" Writeup & Walkthrough
 This is an interactive Python writeup and walkthrough for the "Shake My Hand" 2025 Iris CTF challenge.
+
+![Title Screen](https://github.com/AdmiralSYN-ACKbar/shakemyhand-walkthrough/blob/main/screenshots/titlepage.png?raw=true)
+
+![Mission 1](https://github.com/AdmiralSYN-ACKbar/shakemyhand-walkthrough/blob/main/screenshots/mission1.png?raw=true)
 
 ## Features
 - Step-by-step TCP handshake demonstration
